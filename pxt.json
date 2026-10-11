@@ -2,7 +2,8 @@
     "name": "can you win?        NO",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.6.0"
     },
     "files": [
         "main.blocks",
